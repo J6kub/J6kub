@@ -5,10 +5,7 @@ Welcome to my GitHub profile!
 Here's a little bit about me: 
 
 ## 🌟 About Me 
-
-- 🔭 I’m currently working on innovative projects that blend creativity and technology.
-- 🌱 I’m always learning and expanding my coding repertoire.
-- 💬 Ask me about anything tech-related, and I'll be happy to help!
+- 🌱 I was a human last time i checked.
 
 ## 💻 Languages & Skills
 

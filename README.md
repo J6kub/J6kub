@@ -9,8 +9,12 @@ Here's a little bit about me:
 
 ## 💻 Languages & Skills
 
-- 🐍 **Fluent Snake** (Python)
-- 🌐 **HTML** (HyperText Markup Language)
-- ✝️ **JesusScript** (JavaScript)
-- 🎮 **Counter-Strike Scripting** (Known as CSS)
-- 🚀 **Version Control** (Gittub)
+🐍 Fluent Snake (Python)
+🌐 HTML
+⚡ JavaScript
+🎮 CSS
+🚀 Version Control (GitHub)
+🧩 C#
+💥 C++
+🐘 PHP
+🛢️ MySQL

@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 Here's a little bit about me: 
 
 ## 🌟 About Me 
-- 🌱 I was a human last time i checked.
+- 🌱 I'm A Cat
 
 ## 💻 Languages & Skills
 
